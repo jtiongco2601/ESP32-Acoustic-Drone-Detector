@@ -77,6 +77,5 @@ The current development stage focuses on:
 
 ## Author
 
-Your Name  
-LinkedIn: Add your LinkedIn URL  
-Email: Add your professional email
+Your Name  John
+Email: jtingco2601@gmail.com
