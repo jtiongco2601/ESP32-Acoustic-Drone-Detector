@@ -78,4 +78,5 @@ The current development stage focuses on:
 ## Author
 
 Your Name  John
+
 Email: jtingco2601@gmail.com
