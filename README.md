@@ -79,4 +79,4 @@ The current development stage focuses on:
 
 Your Name  John
 
-Email: jtingco2601@gmail.com
+Email: jtiongco2601@gmail.com
